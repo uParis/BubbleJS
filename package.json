@@ -1,0 +1,35 @@
+{
+	"name": "bubblejs",
+	"version": "1.0.0",
+	"description": "Beautiful, stackable notifications for React",
+	"author": "iParis",
+	"license": "MIT",
+	"homepage": "https://github.com/uParis/BubbleJS#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/uParis/BubbleJS.git"
+	},
+	"bugs": {
+		"url": "https://github.com/uParis/BubbleJS/issues"
+	},
+	"keywords": [
+		"react",
+		"toast",
+		"notifications",
+		"ui",
+		"component"
+	],
+	"main": "dist/main.js",
+	"module": "dist/main.js",
+	"files": ["dist"],
+	"sideEffects": false,
+	"peerDependencies": {
+		"react": ">=18.0.0",
+		"react-dom": ">=18.0.0"
+	},
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	}
+}

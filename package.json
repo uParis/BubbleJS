@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Beautiful, stackable notifications for React",
 	"author": "iParis",
-	"license": "MIT",
+	"license": "SEE LICENSE IN LICENSE"
 	"homepage": "https://github.com/uParis/BubbleJS#readme",
 	"scripts": {
 		"dev": "vite",
